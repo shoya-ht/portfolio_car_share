@@ -41,7 +41,7 @@ session_start();
                     address:○県○市○○
                 </p>
             </div>
-            <div class="col d-flex align-items-right">
+            <div class="col">
                 <img src="car.png" class="w-50" alt="car_image">
             </div>
         </div>
